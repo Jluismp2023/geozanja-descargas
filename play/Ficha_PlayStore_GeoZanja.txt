@@ -1,0 +1,59 @@
+GEOZANJA - FICHA PARA GOOGLE PLAY CONSOLE (versión 1.0, con anuncios)
+Actualizado: 03/11/2026
+
+== Datos de la app ==
+Nombre (máx. 30): GeoZanja: Tubería y Zanja
+Paquete: com.jluismp.geozanja
+Categoría: Herramientas (alternativa: Productividad)
+Gratis, contiene anuncios: Sí
+Compras en la app: No
+Correo de contacto: jluismp2023@gmail.com
+Política de privacidad: https://jluismp2023.github.io/geozanja-descargas/privacidad.html
+
+== Descripción breve (máx. 80 caracteres) ==
+Cotas de tubería y volúmenes de zanja: excavación, arena, relleno y desalojo.
+
+== Descripción completa ==
+GeoZanja entrega las cotas para colocar tubería de alcantarillado o pluvial y los volúmenes de la zanja, calculados en el teléfono y sin internet.
+
+Qué calcula:
+• Cota superior, batea y fondo de zanja de cada tubo (cada 6 m) o de cada medio tubo (cada 3 m).
+• Rasante por cota inicial y pendiente, o por cota inicial y cota final: la app calcula la pendiente y avisa si no es mayor que cero.
+• Altura de excavación en cada punto, con las cotas de terreno que usted ingrese y la interpolación entre ellas.
+• Volumen de excavación, colchón de arena, relleno y tubo, por tramo y entre cotas.
+• Desalojo, con o sin esponjamiento, según el relleno sea con mejoramiento o con material de la excavación.
+• Material a comprar: mejoramiento con factor de compactación y arena con porcentaje de pérdida.
+• Talud por ángulo desde la horizontal, desde la vertical o relación H:V.
+• Dibujos de la sección de zanja y del perfil del tubo que resaltan el dato que está llenando.
+• Resultados para compartir como texto.
+
+Pensada para residentes, supervisores, fiscalizadores y maestros de obra que instalan tubería y necesitan revisar cotas y volúmenes en campo.
+
+Los tramos se guardan en el teléfono. La app no pide cuenta ni envía sus datos a servidores. Los factores de esponjamiento, compactación y pérdida de arena empiezan en cero: usted ingresa los de su obra.
+
+Los resultados son una herramienta de apoyo; la responsabilidad del diseño y de la medición para pago es del profesional a cargo.
+
+== Notas de la versión 1.0 ==
+Primera versión en Google Play.
+
+== Seguridad de los datos (Data safety) ==
+¿Recopila o comparte datos? Sí (por el SDK de anuncios de Google AdMob).
+- Identificadores del dispositivo u otros: ID de publicidad → Recopilado y compartido. Propósito: Publicidad o marketing. No es opcional.
+- Actividad en la app / Interacciones: lo recoge AdMob → Recopilado. Propósito: Publicidad, Análisis.
+- Ubicación aproximada: AdMob puede inferirla por IP → Recopilado. Propósito: Publicidad.
+- Diagnóstico (fallos): AdMob → Recopilado. Propósito: Análisis.
+¿Los datos se cifran en tránsito? Sí.
+¿El usuario puede pedir que se borren? No hay cuenta; los tramos están solo en el teléfono y se borran al desinstalar.
+Datos de los tramos: no salen del teléfono (no se declaran).
+
+== Contenido de la app ==
+Anuncios: Sí, contiene anuncios.
+Acceso a la app: Toda la funcionalidad está disponible sin restricciones (sin inicio de sesión).
+Público objetivo: 18 años o más. No dirigida a niños.
+Clasificación de contenido (cuestionario IARC): categoría "Utilidad, productividad, comunicación u otra"; responder No a violencia, sexo, lenguaje, drogas, apuestas; interacción entre usuarios: No; comparte ubicación: No; compras digitales: No.
+App de noticias: No. App de salud: No. App financiera: No. Gobierno: No.
+ID de publicidad: Sí, la app usa el ID de publicidad (AdMob). Propósito: Publicidad.
+
+== Gráficos ==
+Ícono 512x512 y gráfico de funciones 1024x500: repo geozanja-descargas, carpeta play (también en GeoZanja\Play).
+Capturas de teléfono: mínimo 2, recomendado 4 a 8. Sin el banner de anuncio de prueba visible.
