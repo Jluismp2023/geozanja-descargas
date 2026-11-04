@@ -1,4 +1,4 @@
-GEOZANJA - FICHA PARA GOOGLE PLAY CONSOLE (versión 1.0, con anuncios)
+GEOZANJA - FICHA PARA GOOGLE PLAY CONSOLE (versión 1.1.0, con anuncios)
 Actualizado: 03/11/2026
 
 == Datos de la app ==
@@ -20,16 +20,18 @@ Qué calcula:
 • Cota superior, batea y fondo de zanja de cada tubo (cada 6 m) o de cada medio tubo (cada 3 m).
 • Rasante por cota inicial y pendiente, o por cota inicial y cota final: la app calcula la pendiente y avisa si no es mayor que cero.
 • Altura de excavación en cada punto, con las cotas de terreno que usted ingrese y la interpolación entre ellas.
-• Volumen de excavación, colchón de arena, relleno y tubo, por tramo y entre cotas.
+• Abscisado a su elección (cada 5, 10, 20 m u otro valor): las cotas del terreno se piden en esas abscisas y los volúmenes salen por tramo; el último tramo puede ser más corto.
+• Volumen de excavación, colchón de arena, relleno y tubo, por tramo y total.
 • Desalojo, con o sin esponjamiento, según el relleno sea con mejoramiento o con material de la excavación.
-• Material a comprar: mejoramiento con factor de compactación y arena con porcentaje de pérdida.
+• Material a comprar: arena con porcentaje de pérdida y mejoramiento con factor de compactación, con el volumen colocado y el total a comprar.
 • Talud por ángulo desde la horizontal, desde la vertical o relación H:V.
 • Dibujos de la sección de zanja y del perfil del tubo que resaltan el dato que está llenando.
-• Resultados para compartir como texto.
+• Informe en PDF con perfil longitudinal, corte transversal, cotas de colocación, volúmenes y material a comprar, con nombre y cargo de quien hizo el levantamiento y espacio de firma.
+• Resultados para compartir también como texto.
 
 Pensada para residentes, supervisores, fiscalizadores y maestros de obra que instalan tubería y necesitan revisar cotas y volúmenes en campo.
 
-Los tramos se guardan en el teléfono. La app no pide cuenta ni envía sus datos a servidores. Los factores de esponjamiento, compactación y pérdida de arena empiezan en cero: usted ingresa los de su obra.
+El nombre y el cargo de quien hace el levantamiento se piden en cada tramo y se recuerdan para el siguiente. Los tramos se guardan en el teléfono. La app no pide cuenta ni envía sus datos a servidores; el PDF se genera en el teléfono y usted decide con quién compartirlo. Los factores de esponjamiento, compactación y pérdida de arena empiezan en cero: usted ingresa los de su obra.
 
 Los resultados son una herramienta de apoyo; la responsabilidad del diseño y de la medición para pago es del profesional a cargo.
 
